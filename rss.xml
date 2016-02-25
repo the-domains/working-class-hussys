@@ -2,14 +2,28 @@
     <channel>
         <title><![CDATA[Working Class Hussys]]></title>
         <description><![CDATA[Working Class Hussys]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/working-class-hussys/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 00:55:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 25 Feb 2016 01:13:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/working-class-hussys/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://workingclasshussys.com/wp-content/uploads/2012/12/wch-logo-header-6.png">]]></description>
+            <link>https://thegrid.ai/working-class-hussys/b78fcdb8-1eda-4b8a-a29c-22a8dfe104e6/index.html</link>
+            <guid isPermaLink="false">b78fcdb8-1eda-4b8a-a29c-22a8dfe104e6</guid>
+            <pubDate>Thu, 25 Feb 2016 01:13:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://workingclasshussys.com/wp-content/uploads/2015/07/2015-07-19-00.00.50-225x300.jpg">]]></description>
+            <link>https://thegrid.ai/working-class-hussys/wch-headliners-at-filmonefest-by-pcrowell65-on-july-20-201/index.html</link>
+            <guid isPermaLink="false">43969782-6c83-42f9-85aa-2f47d21add1f</guid>
+            <pubDate>Thu, 25 Feb 2016 01:13:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Working Class Hussys March 2016 Tour Dates Header]]></title>
             <description><![CDATA[<article><h1>Working Class Hussys March 2016 Tour Dates Header</h1><p>Working Class Hussys is an Americana-Infused Alternative Rock Band with a Southern Blend</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc9ed2cd56aed9426d530a53181bf2d74ee5ae20.jpg"></article>]]></description>
-            <link>undefinedworking-class-hussys-march-2016-tour-dates-header/index.html</link>
+            <link>https://thegrid.ai/working-class-hussys/working-class-hussys-march-2016-tour-dates-header/index.html</link>
             <guid isPermaLink="false">e6f3feaa-2343-4784-902d-f015e22fe3f3</guid>
             <pubDate>Thu, 25 Feb 2016 00:55:20 GMT</pubDate>
         </item>
