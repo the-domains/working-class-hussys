@@ -1,0 +1,28 @@
+name: Working Class Hussys
+favicon: null
+layout_spectrum: 0.4159686961211264
+typography_spectrum: 0.9438612160738558
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.04419354139827192
+  lightness: 0.7370540061965585
+  saturation: 0.040869032265618443
+  rhythmicContrast: 0.8957884085830301
+purpose: []
